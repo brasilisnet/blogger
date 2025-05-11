@@ -1,10 +1,7 @@
-//Javascript Created by Computerhope https://www.computerhope.com/
-//store the quotations in arrays
 var images = [],
 index = 0;
-images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDhepUbebuyGRT_kGpIcAb7wvsJ0zUDjL2BXoUssKJbOxaBp_QG4qfnIwz91G3Hiw6sqMCsqO2gFBl5M_4FAn8n-HI6TlkiXvbKgHwKMVAwfSVJQ_rZthXLUJgXIe9TSD6enPPSgzXWGveJQgW45ymXwSYyfzFFapDnO8gjtHSp6knzHR3hfUuEf06Kk/s1600/horny-teen-160.webp' width='100%' height='auto'></a>";
-images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjozXqtg0mb2s3NbsnAKNCOmxq9mptw0wafJyOtkId2qFxvIomPa_tFN_Dfzln7XX6Cfl3VBd9IlrmpYVBPHuUol6pqkgJohz6KKvqVY633CQ7YGqVHewPuoUyR7YQoC-zIHqzou1j94_d1O1qNny-s12WkmCop8SOsjSsKLTNEYHzfu2cSqZe1t5NHCZI/s1600/horny-teen-161.webp' width='100%' height='auto'></a>";
-images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C'><img class='top' border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHzueIGdw0jONMh8iqPwaeWm10hvageU8frbJLfkD_N8hscUALS_qIjsxxbWB3sJFRjAzzqgCUq1ighf1GAXACFpqSBI1RChNFTZJRxUsCW3hXwB7EA5xtE6nrs3tpyiy0f0ilNfR9gZiwb9m6sXHdgj7hTnBWd-j6vnxbiP9C5sW9XqcZfsaoSKN9Byc/s1600/horny-teen-162.webp' width='100%' height='auto'></a>";
+images[0] = "<p><a target='_blank' href='https://s.shopee.com.br/9pR9GLzVpC' title='Produtos Eroticos Na Shopee'><img border='0' src='https://images2.imgbox.com/e6/5d/4iFSlMRB_o.jpg' width='100%' height='auto'><center><div style='margin-top:15px;'><span class='am8'>💞Muito fofo, mas vai me comer quando?🌹</span></div></center></a></p>";
+images[0] = "<p><a target='_blank' href='https://s.shopee.com.br/9pR9GLzVpC' title='Produtos Eroticos Na Shopee'><img border='0' src='https://images2.imgbox.com/5b/ab/3Hn9zFHe_o.jpg' width='100%' height='auto'><center><div style='margin-top:15px;'><span class='am'>😛De boba, eu só tenho a mão.💦</span></div></center></a></p>";
+images[0] = "<p><a target='_blank' href='https://s.shopee.com.br/9pR9GLzVpC' title='Produtos Eroticos Na Shopee'><img border='0' src='https://images2.imgbox.com/f1/75/kZiH1Eq5_o.jpg' width='100%' height='auto'><center><div style='margin-top:15px;'><span class='am0'>🐍Me beija, me morde e me faz perder o juízo.🤩</span></div></center></a></p>";
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
-//done
